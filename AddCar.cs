@@ -18,7 +18,6 @@ namespace Project5
             Console.WriteLine("--------------------------");
             Console.WriteLine("Company Name: ");
             Console.WriteLine("Model Name: ");
-            Console.WriteLine("Model Number: ");
             Console.WriteLine("Color: ");
             Console.WriteLine("Price: ");
         }
